@@ -1,0 +1,15 @@
+{
+    "name":"adhi",
+    "short_name":"adhi",
+    "start_url":".",
+    "baground_color":"#6bcdb1",
+    "theam_color":"#009578",
+    "display":"standlone",
+    "Icons": [
+         
+      {
+        "src":"assets/image/logo.png"
+      }
+
+    ]
+}
